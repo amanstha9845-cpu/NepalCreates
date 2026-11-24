@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="Illustration of a camera and a brand brief connected by a confirmed link">
+<rect width="600" height="440" rx="28" fill="#F5FAFF"/>
+<circle cx="150" cy="220" r="90" fill="#E8F5FF"/><circle cx="450" cy="220" r="90" fill="#E8F5FF"/>
+<rect x="95" y="185" width="110" height="72" rx="14" fill="#172B3A"/><circle cx="150" cy="221" r="22" fill="#55A9E8"/><circle cx="150" cy="221" r="10" fill="#fff"/><rect x="120" y="172" width="34" height="16" rx="5" fill="#172B3A"/>
+<rect x="418" y="170" width="64" height="100" rx="12" fill="#fff" stroke="#55A9E8" stroke-width="4"/><rect x="432" y="188" width="36" height="8" rx="4" fill="#BFE0F8"/><rect x="432" y="206" width="36" height="8" rx="4" fill="#BFE0F8"/><rect x="432" y="224" width="22" height="8" rx="4" fill="#2995DC"/>
+<path d="M205 220 H255 M345 220 H418" stroke="#55A9E8" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round"/>
+<circle cx="300" cy="220" r="42" fill="#2995DC"/><path d="M284 222 l11 11 l22 -24" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
